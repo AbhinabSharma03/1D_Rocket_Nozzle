@@ -1,4 +1,4 @@
-Here is the README in the requested GitHub format:
+
 
 # 🚀 FlowDynamics: Quasi 1D Fluid Flow Through a Converging-Diverging Rocket Nozzle
 
